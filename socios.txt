@@ -1,0 +1,15 @@
+S001;Ane Etxeberria;ane.etxeberria@correo.com;
+S002;Mikel Goikoetxea;mikel.goikoetxea@correo.com;
+S003;Laura Martínez;laura.martinez@correo.com;L005
+S004;Iker Zubizarreta;iker.zubizarreta@correo.com;
+S005;Nerea Agirre;nerea.agirre@correo.com;
+S006;Jon Urrutia;jon.urrutia@correo.com;
+S007;Sara López;sara.lopez@correo.com;L012
+S008;Unai Ibarra;unai.ibarra@correo.com;
+S009;Maialen Arana;maialen.arana@correo.com;
+S010;David Fernández;david.fernandez@correo.com;
+S011;Leire Olano;leire.olano@correo.com;
+S012;Asier Mendizabal;asier.mendizabal@correo.com;
+S013;Lucía García;lucia.garcia@correo.com;
+S014;Aitor Elorza;aitor.elorza@correo.com;
+S015;Paula Sánchez;paula.sanchez@correo.com;

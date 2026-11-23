@@ -11,7 +11,7 @@ L010;Harry Potter y la cámara secreta;J. K. Rowling;1998;Fantasía;
 L011;Orgullo y prejuicio;Jane Austen;1813;Romance;
 L012;Jane Eyre;Charlotte Brontë;1847;Romance;S007
 L013;Cumbres borrascosas;Emily Brontë;1847;Romance;
-L014;Crimen y castigo;Fiódor Dostoyevski;1866;Novela;
+L014;Crimen y castigo;Fiódor Dostoyevski;1866;Novela;S016
 L015;Los hermanos Karamázov;Fiódor Dostoyevski;1880;Novela;
 L016;Guerra y paz;León Tolstói;1869;Histórica;
 L017;Ana Karénina;León Tolstói;1877;Novela;

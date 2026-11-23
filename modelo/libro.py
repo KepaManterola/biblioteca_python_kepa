@@ -16,10 +16,3 @@ class Libro:
 
     def devolver(self):
         self.id_socio = None
-
-    def mostrar_info(self):
-        if self.esta_disponible():
-            estado = "Disponible"
-        else:
-            estado = "Prestado a " + self.id_socio
-        print(f"{self.id_libro:<6}{self.titulo[:40]:<42}{self.autor[:25]:<27}{self.anio:<6}{estado}")

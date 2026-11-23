@@ -14,9 +14,3 @@ class Socio:
 
     def devolver_libro(self):
         self.id_libro = None
-
-    def mostrar_info(self):
-        print("ID:", self.id_socio)
-        print("Nombre:", self.nombre)
-        print("Email:", self.email)
-        print("Libro prestado:", self.id_libro)
